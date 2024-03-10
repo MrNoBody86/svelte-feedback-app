@@ -1,6 +1,6 @@
 # Svelte Feedback App
 
-This is the project from the Svelte crash course on my channel
+This is the project from the Svelte crash course
 
 ```bash
 
